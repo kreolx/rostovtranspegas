@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #fcfcfc;
+}
+.app {
+  margin: 0 auto;
+  width: 960px;
+  background-color: #ffffff;
+}
+.ways {
+  width: 100%;
+}
+.way {
+  width: 100%;
+}
